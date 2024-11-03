@@ -2,6 +2,21 @@
 
 This project involves developing a machine learning model to predict house prices using the California housing dataset. The primary goal is to accurately predict house prices based on various features such as location, size, and other relevant attributes.
 
+<br>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
+![Data Source](https://img.shields.io/badge/dataset-Kaggle-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
+
+<hr>
+
 ### Project Overview
 
 **Data Preprocessing:**
