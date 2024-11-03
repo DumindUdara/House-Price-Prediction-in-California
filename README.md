@@ -1,6 +1,6 @@
 ## House Price Prediction in California
 
-This project involves developing a machine learning model to predict house prices using the California housing dataset. The primary goal is to accurately predict house prices based on various features such as location, size, and other relevant attributes.
+This project involves developing a machine learning model to predict house prices using the California housing dataset. The primary goal is to accurately predict house prices based on various features such as location, size, and other relevant attributes..
 
 <br>
 
